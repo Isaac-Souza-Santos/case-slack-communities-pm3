@@ -145,17 +145,7 @@ Comunidades informais têm dificuldade em organizar discussões, manter engajame
 
 ## 📚 **Documentos Adicionais**
 
-### **📱 [Posts para LinkedIn](post_linkedin_case_slack.md)**
-
-5 versões diferentes de posts para compartilhar o case no LinkedIn
-
-### **🎨 [Carrossel LinkedIn](carrossel_linkedin_slack.md)**
-
-Estrutura para criar carrossel visual no LinkedIn
-
-### **📋 [Instruções de Entrega](INSTRUCOES_ENTREGA_PM3.md)**
-
-Guia completo para organizar e entregar o case prático
+_Documentos específicos para LinkedIn e instruções de entrega podem ser desenvolvidos conforme necessário._
 
 ---
 
